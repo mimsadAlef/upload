@@ -1,8 +1,8 @@
-images/*
-images/
-images
-*.png
-*.jpg
-*.jpeg
-*/*
-*
+# images/*
+# images/
+# images
+# *.png
+# *.jpg
+# *.jpeg
+# */*
+# *
